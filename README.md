@@ -64,6 +64,6 @@ Ensure these libraries are installed in your Arduino IDE before compiling and up
 1.  Assemble the robot hardware according to the **Hardware Requirements** and **Pinout / Connections**.
 2.  Install the required **Software Dependencies** (libraries) in your Arduino IDE.
 3.  Open the code in the Arduino IDE.
-4.  Adjust `MAX_SPEED` (default 100) if necessary to control the robot's speed.
+4.  Adjust `MAX_SPEED` (default 100) if necessary to control the robot's speed..
 5.  Compile and upload the sketch to your Arduino board.
 6.  Power on the robot. It should start moving forward and avoid obstacles based on the logic described.
