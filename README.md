@@ -4,7 +4,7 @@ This Arduino project controls a 4-wheel robot that autonomously navigates and av
 
 ## Description
 
-The robot moves forward until it detects an obstacle within a close range (15cm). When an obstacle is detected, the robot stops, reverses slightly, and then uses a servo motor to turn an ultrasonic sensor left and right to check for the clearest path. It then turns towards the direction with more space before continuing to move forward.
+The robot moves forward until it detects an obstacle within a close range (15cm). When an obstacle is detected, the robot stops, reverses slightly, and then uses a servo motor to turn an ultrasonic sensor left and right to check for the clearest path. It then turns towards the direction with more space before continuing to move forward..
 
 ## Hardware Requirements
 
